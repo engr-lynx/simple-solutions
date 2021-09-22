@@ -11,9 +11,13 @@
 1. Wait for the creation to complete.
 1. Sign in to [Magento Marketplace](https://account.magento.com/applications/customer/login/).
 ![Magento Marketplace Screen 1](/mp1.png "Magento Marketplace Screen 1")
+
 ![Magento Marketplace Screen 2](/mp2.png "Magento Marketplace Screen 2")
+
 ![Magento Marketplace Screen 3](/mp3.png "Magento Marketplace Screen 3")
+
 ![Magento Marketplace Screen 4](/mp4.png "Magento Marketplace Screen 4")
+
 1. Create Magento access keys. Keep the window open. You'll need the values later.
 1. Open C9forSS environment in Cloud9.
 1. Run the following commands from the terminal:
