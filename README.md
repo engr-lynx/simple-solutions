@@ -8,8 +8,8 @@
 1. Transfer to Tokyo region.
 1. Go to [CloudFormation](https://ap-northeast-1.console.aws.amazon.com/cloudformation/home?region=ap-northeast-1).
 1. Deploy dev-env.json in CloudFormation.
-1. Wait for the creation to complete.
-1. Sign in to [Magento Marketplace](https://account.magento.com/applications/customer/login/).
+1. Wait for the creation to complete. This should take a min or two.
+1. Sign in to [Magento Marketplace](https://marketplace.magento.com/).
 ![Magento Marketplace Screen 1](/mp1.png "Magento Marketplace Screen 1")
 
 ![Magento Marketplace Screen 2](/mp2.png "Magento Marketplace Screen 2")
