@@ -9,7 +9,11 @@
 1. Go to [CloudFormation](https://ap-northeast-1.console.aws.amazon.com/cloudformation/home?region=ap-northeast-1).
 1. Deploy dev-env.json in CloudFormation.
 1. Wait for the creation to complete.
-1. Sign in to Magento Marketplace.
+1. Sign in to [Magento Marketplace](https://account.magento.com/applications/customer/login/).
+![Magento Marketplace 1](/mp1.png)
+![Magento Marketplace 2](/mp2.png)
+![Magento Marketplace 3](/mp3.png)
+![Magento Marketplace 4](/mp4.png)
 1. Create Magento access keys. Keep the window open. You'll need the values later.
 1. Open C9forSS environment in Cloud9.
 1. Run the following commands from the terminal:
