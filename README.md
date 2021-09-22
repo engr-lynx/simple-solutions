@@ -3,7 +3,7 @@
 ## Deployment Instructions
 
 1. <a href="data:application/octet-stream,DATA" download="/files/dev-env">TITLE</a>
-1. Download the [CloudFormation template for a dev environment (dev-env.json.zip)](/files/dev-env.json.zip). Extract the file.
+1. Download the [CloudFormation template for a dev environment (dev-env.json)](/dev-env.json).
 1. Sign-in to your [AWS console](https://console.aws.amazon.com/).
 1. Transfer to Tokyo region.
 1. Go to [CloudFormation](https://ap-northeast-1.console.aws.amazon.com/cloudformation/home?region=ap-northeast-1).
