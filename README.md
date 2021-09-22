@@ -2,7 +2,7 @@
 
 ## Deployment Instructions
 
-1. Download the <a id="raw-url" href="https://raw.githubusercontent.com/engr-lynx/simple-solutions/master/dev-env.json">CloudFormation template for a dev environment (dev-env.json)</a>
+1. Download the <a href="/dev-env.json" download>CloudFormation template for a dev environment (dev-env.json)</a>
 1. Sign-in to your [AWS console](https://console.aws.amazon.com/).
 1. Transfer to Tokyo region.
 1. Go to [CloudFormation](https://ap-northeast-1.console.aws.amazon.com/cloudformation/home?region=ap-northeast-1).
