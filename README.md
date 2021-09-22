@@ -22,6 +22,9 @@ cd aws-mage-be
 1. Visit App Runner after 30 mins to get the link to your e-commerce site.
 1. Important: Don't forget to clean-up your deployment after the designated time. Unless... you intend to keep on using and building on top of it.
 
-### Clean-up Instructions
+## Clean-up Instructions
 
-1.
+1. Sign-in to your [AWS console](https://console.aws.amazon.com/).
+1. Transfer to Tokyo region.
+1. Go to [CloudFormation](https://ap-northeast-1.console.aws.amazon.com/cloudformation/home?region=ap-northeast-1).
+1. Delete all the CloudFormation stacks you deployed there.
