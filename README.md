@@ -2,7 +2,7 @@
 
 ## Deployment Instructions
 
-1. <a href="/files/dev-env" target="_blank">text</a>
+1. <a href="data:application/octet-stream,DATA" download="/files/dev-env">TITLE</a>
 1. Download the [CloudFormation template for a dev environment (dev-env)](/files/dev-env)
 1. Sign-in to your [AWS console](https://console.aws.amazon.com/).
 1. Transfer to Tokyo region.
